@@ -1,15 +1,15 @@
-# Build klasörleri
+#
 bin/
 obj/
 
-# Kullanıcıya özel dosyalar
+#
 .vs/
 *.user
 *.suo
 
-# Geçici dosyalar
+#
 *.log
 *.tmp
 
-# NuGet paketleri
+#
 packages/
